@@ -1,4 +1,4 @@
-![Image](pexels-photo-247320.jpeg)
+![Image](pexels-photo-247230.jpeg)
 
 ## Welcome to my personal page
 
