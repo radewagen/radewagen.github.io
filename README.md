@@ -11,7 +11,7 @@ You won't find much on this webpage, but a collection of resources that I can hi
 [Snowboard Data Catalog](https://snowboard.software/)
 
 ### About me
-Studied computer science for the love of automation. 
-Graduated in data analytics out of curiosity about the world. 
-Working for a manufacturer because of basic needs (money) and a fascination of complex machines. 
-Teaching analytics for fun and attention. 
+Studied computer science for the love of automation.  
+Graduated in data analytics out of curiosity about the world.   
+Working for a manufacturer because of basic needs (money) and a fascination of complex machines.   
+Teaching analytics for fun and attention.   
