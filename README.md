@@ -10,8 +10,8 @@ You found my personal page.
 - Изучение русского языка тоже из любви. ❤
 - Presenting my professional life on [LinkedIn](https://de.linkedin.com/in/radewagen)
 
-### Current side project 🏂
-[Snowboard Data Catalog](https://snowboard.software/)
+### Current side project 
+[Snowboard Data Catalog 🏂](https://snowboard.software/)
 
 ### Some Publications
 - [Blog Post](https://insinuator.net/2016/07/dilligent-bug/) on how I found a remote code execution vulnerability
