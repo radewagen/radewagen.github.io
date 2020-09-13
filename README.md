@@ -24,8 +24,6 @@ You found my personal page.
 - [Nice little game]( https://ncase.me/trust/ ), explaining trust from a game theory perspective
 - [Online book](https://natureofcode.com/book/chapter-9-the-evolution-of-code/), teaching some grand ideas about CS with nice interactive visualizations
 
-
-
 ### Donate
 A good boss told me, that you should always end with a call to action.  
 So, please donate money to an organization you care about.
